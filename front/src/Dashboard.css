@@ -1,0 +1,48 @@
+.title{
+  
+  margin: 1% 1% 1% 1%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.statistic{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ 
+}
+.divs{
+height: 500px;
+margin: 1% 1% 1% 1%;
+position:relative
+}
+.superDiv{
+  margin:-10% 5% 5% 5%;
+}
+.canvas{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 800px;
+}
+
+.unit{
+  fill:none;
+  stroke-width: 10;  /* толщина обводки*/
+}
+
+.ul{
+  margin-top: 120%;
+}
+.svg{
+  position:absolute;
+}
+.num{
+  position:absolute;
+  margin:50% 0 0 45%;
+  color:'green'
+}
+.num1{
+  position:absolute;
+  margin:40% 0 0 37%
+}
